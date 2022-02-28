@@ -6,8 +6,9 @@ Embed code and other text files in Obsidian notes with syntax highlighting and o
 
 ## How To Use
 
-* Download the folder to the plugins directory of your vault. 
+* Download the folder to the plugins directory of your vault.
 * Run `yarn run dev'
+* Enable the plugin.
 * Check the below GIF for usage. 
 
 ![Demo GIF](assets/demo.gif)
